@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung Pham</h1>
 <h3 align="center">A passionate Software Engineering from America</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunpeocode&label=Profile%20views&color=0e75b6&style=flat" alt="hunpeocode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunpeocode" alt="hunpeocode" /></a> </p>
-
 - 🔭 I have over 5 years of experience as a Software Engineer at FPT Software.
 
 - 🌱 I’m currently working at FPT Americas
