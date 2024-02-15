@@ -5,31 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunpeocode" alt="hunpeocode" /></a> </p>
 
-- 🔭 I’m currently working on [spring-boot-guide](https://github.com/users/hunpeocode/projects/1)
+- 🔭 I have over 5 years of experience as a Software Engineer at FPT Software.
 
-- 🌱 I’m currently learning **CI/CD, Docker**
+- 🌱 I’m currently working at FPT Americas
 
-- 👯 I’m looking to collaborate on [...](...)
+- 👨‍💻 All of my projects are available at [hunpeocode](https://github.com/hunpeocode) or [phamhungptithcm](https://github.com/phamhungptithcm)
 
-- 🤝 I’m making series on [spring-boot-guide](https://github.com/users/hunpeocode/projects/1)
+- 📝 I regularly make videos on [hunpeocode](https://www.youtube.com/c/hunpeocode)
 
-- 👨‍💻 All of my projects are available at [https://github.com/hunpeocode](https://github.com/hunpeocode)
+- 💬 Ask me about **java, spring, hibernate, Mendix**
 
-- 📝 I regularly make videos on [https://www.youtube.com/c/hunpeocode](https://www.youtube.com/c/hunpeocode)
-
-- 💬 Ask me about **java, spring,hibernate, mendix**
-
-- 📫 How to reach me **phamhung.working@gmail.com**
+- 📫 How to reach me **phamhung.working@gmail.com** or **phamhung.pitit@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hunpham/](https://www.linkedin.com/in/hunpham/)
 
-- ⚡ Fun fact **I think I'm pretty lazy ^^**
+- ⚡ Fun fact **lazy boy part-time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hunpham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hunpham/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hungp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hungp7" height="30" width="40" /></a>
-<a href="https://www.instagram.com/phamhungtt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/phamhungtt/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hunpeocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/hunpeocode" height="30" width="40" /></a>
 </p>
 
